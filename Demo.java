@@ -3,6 +3,5 @@ public class Demo {
 System.out.println(" Hello world 1");
 System.out.println("Hello All");
 System.out.println(" Hello world 2");
-  System.out.println(" Hello world 3(by remote git)");
 }
 }
